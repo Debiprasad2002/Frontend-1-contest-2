@@ -1,0 +1,81 @@
+#logo{
+width: 230px;
+height: 66px;
+top: 34px;
+left: 49px;
+border-radius: 123.5px;
+
+}
+#archieves{
+ width: Fixed (245px);
+height: Fixed (49px);
+top: 43px;
+left: 896px;
+padding: 10px;
+justify: space-between
+
+}
+.card1{
+    width: 100%;
+    height: 742px;
+    top: 155px;
+    left: 27px;
+    border-radius: 50px ;  
+    background-image:url(Rectangle\ 26\ \(1\).jpg);
+    background-size: cover;
+
+}
+#text0{
+ width: 424px;
+height: 136px;
+top: 375px;
+left: 110px; 
+padding-top: 250px;   
+font-family: Poppins;
+font-size: 45px;
+font-weight: 700;
+line-height: 68px;
+letter-spacing: 0em;
+text-align: left;
+color:#184655;
+}
+.search{
+width: 5006px;
+height: 78.9299545288086px;
+top: 10px;
+left:100px;
+border-radius: 0px 19px 19px 0px;
+}
+.hastag{
+    width: Fixed (331px);
+    height: Hug (25px);
+    top: 632px;
+    left: 103px;
+    justify-content: space-between;
+
+}
+#carding{
+    width: 474.9854431152344px;
+    height: 303.3608703613281px;
+    top: 353.63916015625px;
+    left: 825.38916015625px;
+    align-items: center;
+    float:none;
+    flex-basis: 50%;   
+}
+.card2{
+width: 1386px;
+height: 512px;
+top: 942px;
+left: 27px;
+border-radius: 40px;
+}
+.card4{
+width: 100%;
+height: 707px;
+top: 2013px;
+left: 27px;
+background-size: cover;
+background-image: url(Group\ 16.png);
+
+}
